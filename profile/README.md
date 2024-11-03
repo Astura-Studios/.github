@@ -2,7 +2,7 @@
 <img src="Banner_Light.png" alt="Astura banner" align="center" /> 
 <br />
 
-<h1>Welcome</h1>
+<h1>An Immersive MMORPG Experience.</h1>
 <p>Welcome to Astura Studios! We are a development studio working towards creating fun content for everyone to enjoy! Join the group and our server to hear about new updates for our game!</p>
 
 **Useful Links**
