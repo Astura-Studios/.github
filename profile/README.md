@@ -1,12 +1,11 @@
-## Hi there 👋
+<br />
+<img src="Banner_Light.png" alt="Astura banner" align="center" /> 
+<br />
 
-<!--
+<h1>Welcome</h1>
+<p>Welcome to Astura Studios! We are a development studio working towards creating fun content for everyone to enjoy! Join the group and our server to hear about new updates for our game!</p>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Useful Links**
+ - [Play Astura (coming soon)](https://www.roblox.com/groups/6465313/Astura-Studios#!/about)
+ - [ROBLOX Group](https://www.roblox.com/groups/6465313/Astura-Studios#!/about)
+ - [Discord](https://discord.com/invite/XESP7Ty8t2)
